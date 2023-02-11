@@ -1,3 +1,5 @@
 đây là dòng đâu tiên của file số 2
 
-file số 2 đã được thay đổi
+file số 2 đã được thay đổi lần 1
+
+file số 2 đã được thay đổi lần 2
