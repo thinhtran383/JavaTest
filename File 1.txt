@@ -4,3 +4,6 @@ Day la dong dau tien
 
 Đây là dòng thứ 3 của file 1 sửa tại nhánh file1 (đây là master)
 123
+
+
+file1
